@@ -1,9 +1,9 @@
 央视频道,#genre#
-更新日期: 2026-8-11 12:00:28,http://play.kankanlive.com/live/1698234869325962.m3u8
+更新日期: 2026-8-11 14:04:57,http://play.kankanlive.com/live/1698234869325962.m3u8
 CCTV1综合,http://play.kankanlive.com/live/1698234869325962.m3u8
-CCTV5体育,http://txycdn3.video.qq.com/1369718502.m3u8?time=1786355424&from=player&cdn=tcloud&sdtfrom=v401010931632&platform=4010603&butype=31&HLSP2P=1&vkey=nvkey_AQQgIC-H_o1onyksIwrIlk69DAvOP0kjGFX2kixfPuVuvbcxEIXTEyCdY8UAiCkB3Rff7vUBcH--cvcMrldUtbiNHsACkrX1DCzsd3i0rv3oW4SDqbt8x1fOApDaYfm0FLBG7naaC8JdT8htMFa30vM9YRo-hv5F_2B5g3UWdS5H7B4qH0uxR1MG2t1QWzzdgjpdn21sTYk9rnz2Cm46WdlrrZCJWZEvtu8DafMCNJrii8yVlimmQ_Cra0n_j6BUz61bJwa5xH_j09yIDZbZQ0xCJp4CnWPczZPCDoHvF00P83ZCsCmdqfKZoKj73AjQFpUTJq8iEOxbPvIfXi-NMT5oM2x1TyadiNBJ327Y-LUtiDBebT7LAFnhA5sDI077ntyipp022GP5uiR-F09RhpoQQKkz3MIFs_Mc8uaeazTTsPKcvmtia2h-jZpeYYf9aTcSsPkHxJcsKm1_i47feB3n_HrN4GVJJfLkuv8VshtqmY2YhuY2okctEqae1e2S0vOo4NF5gT68p7At_UnknBfzDt8h-9Bx-viVrw-6OrVLETfqdyEC&drmtype=0
+CCTV5体育,http://txycdn2.video.qq.com/1369718502.m3u8?time=1786428049&from=player&cdn=tcloud&sdtfrom=v401010931632&platform=4010603&butype=31&HLSP2P=1&vkey=nvkey_AQQgICBGx4_vk-9PzWy6yPQquWNauQj3QovaIJdK7lwE4CY5EFEBxxXLJfTen50vTXIEyS0BcNk0XaP8TDY4LVKxKEDiGcnM6_Wf_r4PQH9m4j7beUW12gCB6K4nFtF2ap5aENLvZMZvCxQ04-53De4fYe40hWt-6mOWP516Q-fGOsu_w-KsuoS23Iu06t4GZYFyZiZ2_-rPJO2AvosL4TrwEXdGwRxJVk1ER_JGTdCaVEBppooVQcVHZBOC7AN11_kpDzHBUsJ2HrztYziPW4wgvmmjafBJBD9bEMsb8VdMuRM6MQEOd5SyF05Pj7MjolrONnkX17stn7ye_GfU9bFMygzG2L1_Xi8IC9Nydo2nS85yWqNpxs8NrSscRdYViprz6LVGBG98YpX1kHcDuArZKIjxOzLzQdg2_wech-NbzEQ4-XWwIa4gusnxPjg9Fx0Epv9PiqyxW8bEBDscx79BZ32U5CXhmP6KNPnvp5BwRFAq0ifrCkWe6juymNXni3ERp9eYCpuz2T2PygW9AY56ZN2oZlh-fQK-8QjexayJKtGPLRXa&drmtype=0
 CCTV9纪录,http://play.kankanlive.com/live/1698423397390920.m3u8
-CCTV12社会与法,http://txycdn6.video.qq.com/1755789202.m3u8?time=1786354529&from=player&cdn=tcloud&sdtfrom=v401010931632&platform=4010603&butype=31&HLSP2P=1&vkey=nvkey_AQQgIHuyjsOkftWio5iKVZEfONqwGUCEog8PJrVUkSE4JlyvED0_LrgR2Q5QipM_zyFBAhcBcN5FK6ficHpHITZcm45uIqa576IgTkZJKxA2-PE1LiqjEJCMk1s7r3INeSnOjSQDaTL3gHaJbenxq7yEUb6vxdr933co2MzfenRRnmcfKoBcWNOR5DIQGT8bstQ5rMIrdvfAD8kYG5ESuxxdZBNIkgAYgtNJjQdtss73BcwUiCpR2O6eDcvHbSEcHbHaEeEv3sXHWvalqilR9mtG2fmzidagdudNU4HFDB1JuOqcYv1OCGDbiBRf7q5DtIHFG5ZxhqhfWMjeD01U-xddWoq0oqGjyrBUVzyIcn-2OmS-SqwiWg2pg7VQEgGwRXxjjNgw9vKUdDIXU0rAfzy7rBy1nd0HSYDT07fyyrSxcYNiQ--e00WeOAp7_h1sGMQ8fMjl2-3JX40zLhgbPjSoGE-aKqNWsRbKBHEIMmKBur6Vy3zJuklJqe9jT4o_VaFj2QN3bbldtv_xljd52U8GiI7SXt1PCIlwvAU6Qk4CLgsjBwXG&drmtype=0
+CCTV16奥林匹克,http://38.75.136.137:98/gslb/dsdqpub/cctv16hd.m3u8?auth=testpub
 卫视频道,#genre#
 湖南卫视,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
 湖南卫视,https://hlsbkmgsplive.miguvideo.com/wd-hunanhd-2500/01.m3u8?&HlsSubType=&encrypt=
@@ -11,14 +11,19 @@ CCTV12社会与法,http://txycdn6.video.qq.com/1755789202.m3u8?time=1786354529&f
 浙江卫视,http://ali-xwl.cztv.com/live/channel011080Plxw.m3u8
 浙江卫视,http://ali-xwl.cztv.com/live/channel01720Plxw.m3u8
 江苏卫视,https://hlsbkmgsplive.miguvideo.com/migu/kailu/jswshd265/55/20200407/01.m3u8?&HlsSubType=&encrypt=
+深圳卫视,http://38.75.136.137:98/gslb/dsdqpub/szwshd.m3u8?auth=testpub
+天津卫视,http://38.75.136.137:98/gslb/dsdqpub/tjwshd.m3u8?auth=testpub
 山东卫视,https://hlsbkmgsplive.miguvideo.com/wd_r4/yg/shandongwshd/3000/01.m3u8?&HlsSubType=&encrypt=
 山东卫视,https://hlsbkmgsplive.miguvideo.com/wd-shandonghd-1200/01.m3u8?&HlsSubType=&encrypt=
 辽宁卫视,https://hlsbkmgsplive.miguvideo.com/migu/kailu/lnwshd265/54/20200407/01.m3u8?&HlsSubType=&encrypt=
 东南卫视,https://hlsbkmgsplive.miguvideo.com/migu/kailu/dongnanws/51/20230724/01.m3u8?&HlsSubType=&encrypt=
+重庆卫视,http://38.75.136.137:98/gslb/dsdqpub/cqwshd.m3u8?auth=testpub
 重庆卫视,https://hlsbkmgsplive.miguvideo.com/envivo_x/2018/SD/chongqing/1000/01.m3u8?&HlsSubType=&encrypt=
 吉林卫视,https://hlsbkmgsplive.miguvideo.com/envivo_v/2018/SD/jilin/1000/01.m3u8?&HlsSubType=&encrypt=
 兵团卫视,https://hlsbkmgsplive.miguvideo.com/migu/kailu/btws/51/20250804/01.m3u8?&HlsSubType=&encrypt=
 广东地区,#genre#
+广东珠江,http://38.75.136.137:98/gslb/dsdqpub/gdzj.m3u8?auth=testpub
+广东民生,http://38.75.136.137:98/gslb/dsdqpub/gdgg.m3u8?auth=testpub
 广东影视,https://hlsbkmgsplive.miguvideo.com/wd_r1/2018/nfmedia/nfys/1000/01.m3u8?&HlsSubType=&encrypt=
 湖南地区,#genre#
 长沙县新闻综合,https://liveplay-srs.voc.com.cn/hls/tv/203_10cdf5.m3u8
@@ -87,11 +92,12 @@ CCTV12社会与法,http://txycdn6.video.qq.com/1755789202.m3u8?time=1786354529&f
 南京文旅纪录,http://nklive.nbs.cn/hls/9b2005c4-046c-422f-ba45-e6adc4f4de07/index.m3u8
 南京十八生活,http://nklive.nbs.cn/hls/1173a815-bfdb-4c3c-9f73-89ec37ae7716/index.m3u8
 南京少儿,http://nklive.nbs.cn/hls/e0981f3f-1a20-4a59-b8d1-17feb83a4610/index.m3u8
+海门新闻综合,http://haimen-tv-hls.cm.jstv.com/haimen-tv/haimenxwzh.m3u8
 海门教育人文,http://haimen-tv-hls.cm.jstv.com/haimen-tv/haimenjyrw.m3u8
 海门经济生活,http://haimen-tv-hls.cm.jstv.com/haimen-tv/haimenjjzh.m3u8
 沭阳综合,http://shuyang-tv-hls.cm.jstv.com/shuyang-tv/shuyangzh.m3u8
-大丰一套,http://dafeng-tv-hls.cm.jstv.com/dafeng-tv/dafengyt.m3u8
 大丰二套,http://dafeng-tv-hls.cm.jstv.com/dafeng-tv/dafenget.m3u8
+如东1,http://rudong-tv-hls.cm.jstv.com/rudong-tv/rdxwzh.m3u8
 无锡新闻综合,http://stream.thmz.com/wxtv1/sd/live.m3u8
 无锡都市资讯,http://stream.thmz.com/wxtv3/sd/live.m3u8
 无锡生活,http://stream.thmz.com/wxtv4/sd/live.m3u8
